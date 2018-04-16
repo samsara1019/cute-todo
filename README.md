@@ -1,2 +1,2 @@
 # cute-todo
-cute todo app
+cute todo app made with react native
