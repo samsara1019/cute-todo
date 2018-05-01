@@ -1,5 +1,3 @@
-# cute-todo
-cute todo app made with react native
 
 Cute ToDo APP
 =============
